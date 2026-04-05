@@ -1,0 +1,23 @@
+player,team_home,shot_type,situation,body_part,x,y,xg,minute,distance_to_goal,count
+Cody Gakpo,False,save,set-piece,head,13.2,48.1,0,81,13.33604139165742,1
+Alexis Mac Allister,False,save,assisted,right-foot,27.4,43.1,0,76,28.255441953719284,1
+Bernardo Silva,True,save,set-piece,left-foot,19.7,69.5,0,66,27.718946588930827,1
+Mohamed Salah,False,save,penalty,left-foot,11.5,50.0,0,64,11.5,1
+Erling Haaland,True,goal,assisted,left-foot,8.9,46.2,0,57,9.677293009927931,1
+Mohamed Salah,False,miss,assisted,left-foot,12.5,67.6,0,55,21.587264764207617,1
+Antoine Semenyo,True,miss,fast-break,right-foot,55.2,56.1,0,54,55.536024344563955,1
+Mohamed Salah,False,save,assisted,left-foot,9.0,64.6,0,52,17.151093259614672,1
+Antoine Semenyo,True,goal,assisted,left-foot,8.9,33.8,0,50,18.48377667036691,1
+Erling Haaland,True,goal,assisted,head,8.1,52.5,0,45,8.477027781009095,1
+Erling Haaland,True,goal,penalty,left-foot,11.5,50.0,0,39,11.5,1
+Rodri,True,block,assisted,right-foot,25.6,46.7,0,36,25.811818998280614,1
+Hugo Ekitiké,False,miss,regular,right-foot,12.9,43.2,0,27,14.582523787054145,1
+Antoine Semenyo,True,block,assisted,left-foot,16.4,51.7,0,18,16.487874332369227,1
+Rayan Cherki,True,save,assisted,right-foot,5.1,61.5,0,17,12.580143083447023,1
+Mohamed Salah,False,block,regular,left-foot,6.2,35.2,0,14,16.046183346827366,1
+Matheus Nunes,True,save,assisted,right-foot,22.9,72.0,0,14,31.755471969410248,1
+Hugo Ekitiké,False,miss,assisted,right-foot,21.0,40.9,0,11,22.88689581398054,1
+Dominik Szoboszlai,False,block,regular,left-foot,19.8,61.1,0,8,22.699118925632334,1
+Ibrahima Konaté,False,save,set-piece,head,11.4,45.6,0,5,12.219656296312102,1
+Florian Wirtz,False,block,assisted,right-foot,15.2,44.1,0,3,16.304907236779975,1
+Jérémy Doku,True,miss,assisted,right-foot,22.9,39.3,0,2,25.276471272707354,1
